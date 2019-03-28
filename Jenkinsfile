@@ -1,4 +1,4 @@
-node{
+knl{
 stage('SCM Checkout'){
 git 'https://github.com/sammyrolemaven/Jenkinsmaven'
 }
