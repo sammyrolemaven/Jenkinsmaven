@@ -1,4 +1,4 @@
-rootFsGit{
+software{
 stage('SCM Checkout'){
 git 'https://github.com/sammyrolemaven/Jenkinsmaven'
 }
