@@ -1,4 +1,4 @@
-node{
+Kernel{
 stage('SCM Checkout'){
 git 'https://github.com/sammyrolemaven/Jenkinsmaven'
 }
